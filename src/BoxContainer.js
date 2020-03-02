@@ -4,7 +4,7 @@ import "./BoxContainer.css";
 
 export default class BoxContainer extends Component {
   static defaultProps = {
-    numBoxes: 18,
+    numBoxes: 24,
     allColors: [
       "00b8a9",
       "f8f3d4",
@@ -20,7 +20,9 @@ export default class BoxContainer extends Component {
       "ffd271",
       "413c69",
       "0f4c81",
-      "142850"
+      "142850",
+      "fd367e",
+      "182952"
     ]
   };
   render() {

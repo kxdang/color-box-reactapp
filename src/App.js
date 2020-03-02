@@ -7,6 +7,10 @@ function App() {
   return (
     <div className="App">
       <BoxContainer />
+      <h3>
+        Enjoy the satisfaction of making every box the same color :) Click some
+        boxes or keep refreshing for a disco party!
+      </h3>
     </div>
   );
 }
