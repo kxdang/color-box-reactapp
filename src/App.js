@@ -11,6 +11,9 @@ function App() {
         Enjoy the satisfaction of making every box the same color :) Click some
         boxes or keep refreshing for a disco party!
       </h3>
+      <p>
+        Created by <a href="https://www.kien.dev/">Kien Dang</a>
+      </p>
     </div>
   );
 }
